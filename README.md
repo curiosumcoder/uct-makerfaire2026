@@ -1,5 +1,7 @@
 # Machine Learning con ml5.js
 
+## Gilberto Bermúdez \ gbermude@outlook.com
+
 ¿Sabías que puedes integrar Inteligencia Artificial en tus proyectos utilizando únicamente una página web? En este espacio interactivo aprenderás a sacar provecho de la IA sin necesidad de servidores complejos.
 
 Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desde el navegador web. Para lograrlo, utilizaremos la biblioteca de JavaScript ml5.js dentro del entorno de desarrollo de p5.js.
