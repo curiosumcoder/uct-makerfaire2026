@@ -12,7 +12,7 @@ Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desd
 
 ![QR](qrcode_github.com.png)
 
-### https://github.com/curiosumcoder/ct-makerfaire2025
+### https://github.com/curiosumcoder/uct-makerfaire2026
 
 ## Taller
 
