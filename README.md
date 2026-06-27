@@ -30,5 +30,6 @@ Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desd
 6. https://p5js.org
 7. https://editor.p5js.org
 8. https://docs.ml5js.org
+9. [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 
 `Algunos de los recursos anteriores, usan p5.js versión 1.`
