@@ -8,7 +8,7 @@ Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desd
 
 #### [Taller impartido en el Maker Faire 2026](https://eventos.ucenfotec.ac.cr/makerfaire#/agenda?day=1&lang=en&sessionId=164240000001502361&viewMode=2) en la [Universidad Cenfotec](https://ucenfotec.ac.cr/).
 
----
+## [Presentación]()
 
 ## Taller
 
@@ -16,9 +16,16 @@ Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desd
 
 ### https://github.com/curiosumcoder/uct-makerfaire2026
 
+## Demostraciones
+
+- [Demostración 1 - Sketch inicial en pj5.js]()
+- [Demostración 2 - Sketch clasificación de imágenes con mj5.js]()
+- [Demostración 3 - Sketch clasificación de imágenes con mj5.js, aprovechando Teachable Machine]()
+
 ## Taller
 
-[Pasos del taller](taller.md)
+- [Pasos del taller](taller.md)
+- [Código final](https://editor.p5js.org/gbermude/sketches/_KajP6k9X)
 
 ## Referencia
 
