@@ -18,9 +18,9 @@ Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desd
 
 ## Demostraciones
 
-- [Demostración 1 - Sketch inicial en pj5.js]()
-- [Demostración 2 - Sketch clasificación de imágenes con mj5.js]()
-- [Demostración 3 - Sketch clasificación de imágenes con mj5.js, aprovechando Teachable Machine]()
+- [Demostración 1 - Sketch inicial en pj5.js](https://editor.p5js.org/gbermude/sketches/_Fe4M6r8i)
+- [Demostración 2 - Sketch clasificación de imágenes con mj5.js](https://editor.p5js.org/gbermude/sketches/BFk0g4d0G)
+- [Demostración 3 - Sketch clasificación de imágenes con mj5.js, aprovechando Teachable Machine](https://editor.p5js.org/gbermude/sketches/4mHTMUrBQ)
 
 ## Taller
 
@@ -29,14 +29,16 @@ Pondremos a prueba modelos de Machine Learning que se ejecutan directamente desd
 
 ## Referencia
 
-1. [thecodingtrain.com](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/hand-pose/) | Videos de Dan Shiffman sobre ml5.js y p5.js
+1. https://p5js.org
+    - 1.1 https://editor.p5js.org
+    - 1.2 https://p5js.org/examples/Shapes-And-Color-Color/    
+    - 1.3 [p5js.org/tutorials/speak-with-your-hands](https://p5js.org/tutorials/speak-with-your-hands/) | Tutorial oficial de p5.js usando HandPose
 2. [ml5js.org](https://ml5js.org/) | Sitio oficial de ml5.js con documentación y ejemplos
-3. [docs.ml5js.org/#/reference/handpose](https://docs.ml5js.org/#/reference/handpose) | Referencia completa de HandPose
-4. [p5js.org/tutorials/speak-with-your-hands](https://p5js.org/tutorials/speak-with-your-hands/) | Tutorial oficial de p5.js usando HandPose
-5. https://teachablemachine.withgoogle.com
-6. https://p5js.org
-7. https://editor.p5js.org
-8. https://docs.ml5js.org
-9. [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+    - 2.1 https://docs.ml5js.org
+    - 2.3 [docs.ml5js.org/#/reference/handpose](https://docs.ml5js.org/#/reference/handpose) | Referencia completa de HandPose
+3. [thecodingtrain.com](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/hand-pose/) | Videos de Dan Shiffman sobre ml5.js y p5.js
+    - 3.1 [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+4. https://teachablemachine.withgoogle.com
+
 
 `Algunos de los recursos anteriores, usan p5.js versión 1.`
